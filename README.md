@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, TypeScript**
 
-💬 Ask me about **Node.js, React, MongoDb... or anything [here](https://github.com/AadarshDubey)**
+💬 Ask me about **Node.js, React, MongoDb... or anything [here](https://www.linkedin.com/in/aadarsh-dubey-551680164/)**
 
 ⚡ Fun fact **I'm reading a book on anti-gravity. It's impossible to put down!**
 
