@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Crypto project**
+ 🪙 I’m currently working on **Crypto project**
  
  🌱 I’m currently learning **Docker, TypeScript**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/AadarshDubey)**
+💬 Ask me about **Node.js, React, MongoDb... or anything [here](https://github.com/AadarshDubey)**
 
 ⚡ Fun fact **I'm reading a book on anti-gravity. It's impossible to put down!**
 
