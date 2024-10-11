@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **crypto project**
+ 🔭 I’m currently working on **Crypto project**
  
- 🌱 I’m currently learning **Docker, AWS**
+ 🌱 I’m currently learning **Docker, TypeScript**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/AadarshDubey)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I'm reading a book on anti-gravity. It's impossible to put down!**
 
  </div>
  
